@@ -1,0 +1,630 @@
+[
+  {
+    "timestamp": "2026-04-16T10:28:02",
+    "text": "Hii,so today was kinda a very good day,i got a certificate for my academics and my parents are really happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.8819,
+    "sentiment_confidence": 0.8816,
+    "ai_response": {
+      "supportive_response": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment.",
+      "suggestion": "Write down one thing that helped you feel this way so you can return to it later.",
+      "motivation": "Small joyful moments are real progress too.",
+      "source": "Rule-based fallback",
+      "reply": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment. Write down one thing that helped you feel this way so you can return to it later. Small joyful moments are real progress too."
+    },
+    "date": "2026-04-16",
+    "time": "10:28 AM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday"
+  },
+  {
+    "timestamp": "2026-04-16T12:02:57",
+    "date": "2026-04-16",
+    "time": "12:02 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii i feel happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.9578,
+    "sentiment_confidence": 0.8022,
+    "ai_response": {
+      "supportive_response": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment.",
+      "suggestion": "Write down one thing that helped you feel this way so you can return to it later.",
+      "motivation": "Small joyful moments are real progress too.",
+      "reply": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment. Write down one thing that helped you feel this way so you can return to it later. Small joyful moments are real progress too. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T12:40:45",
+    "date": "2026-04-16",
+    "time": "12:40 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "HII i feel very stressed",
+    "emotion": "Happy",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.3768,
+    "sentiment_confidence": 0.424,
+    "ai_response": {
+      "supportive_response": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment.",
+      "suggestion": "Write down one thing that helped you feel this way so you can return to it later.",
+      "motivation": "Small joyful moments are real progress too.",
+      "reply": "It is wonderful that you are noticing positive energy today. Let yourself fully enjoy this moment. Write down one thing that helped you feel this way so you can return to it later. Small joyful moments are real progress too. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T12:42:01",
+    "date": "2026-04-16",
+    "time": "12:42 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i feel stressed",
+    "emotion": "Sad",
+    "sentiment": "Neutral",
+    "emotion_confidence": 0.3695,
+    "sentiment_confidence": 0.4912,
+    "ai_response": {
+      "supportive_response": "I am sorry you are feeling low. Your emotions are valid, and you do not have to handle them all at once.",
+      "suggestion": "Try one gentle action: drink water, step outside for two minutes, or message someone you trust.",
+      "motivation": "A hard day does not define your whole story.",
+      "reply": "I am sorry you are feeling low. Your emotions are valid, and you do not have to handle them all at once. Try one gentle action: drink water, step outside for two minutes, or message someone you trust. A hard day does not define your whole story. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T12:43:02",
+    "date": "2026-04-16",
+    "time": "12:43 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "hii i feel stressed",
+    "emotion": "Sad",
+    "sentiment": "Neutral",
+    "emotion_confidence": 0.3695,
+    "sentiment_confidence": 0.4912,
+    "ai_response": {
+      "reply": "Hey there, I\u2019m really sorry you\u2019re feeling stressed right now. It\u2019s completely understandable\u2014life can pile up and make our minds feel like they\u2019re in a whirlwind. You\u2019re not alone in this; a lot of people feel the same way when things get heavy.\n\nA few small steps might help ease that pressure a bit:\n\n1. **Take a quick breath break** \u2013 inhale for 4 counts, hold for 4, exhale for 6. Repeat a couple of times; it can reset the nervous system.\n2. **Name the source** \u2013 jot down or say out loud what\u2019s triggering the stress. Sometimes just putting it on paper or in your head makes it feel less overwhelming.\n3. **Choose one tiny action** \u2013 maybe clear a single corner of your space, send a quick text to a friend, or make a cup of tea. Completing one small task can create a ripple of relief.\n4. **Pause for 5 minutes** \u2013 step away from whatever you\u2019re doing and do something that feels soothing\u2014listen to a favorite song, stretch, or look out a window.\n\nRemember, it\u2019s okay to give yourself permission to pause and recharge. How did you usually feel when you were less stressed? That might give a hint about what could bring you back to that calmer space today.",
+      "supportive_response": "Hey there, I\u2019m really sorry you\u2019re feeling stressed right now. It\u2019s completely understandable\u2014life can pile up and make our minds feel like they\u2019re in a whirlwind. You\u2019re not alone in this; a lot of people feel the same way when things get heavy.\n\nA few small steps might help ease that pressure a bit:\n\n1. **Take a quick breath break** \u2013 inhale for 4 counts, hold for 4, exhale for 6. Repeat a couple of times; it can reset the nervous system.\n2. **Name the source** \u2013 jot down or say out loud what\u2019s triggering the stress. Sometimes just putting it on paper or in your head makes it feel less overwhelming.\n3. **Choose one tiny action** \u2013 maybe clear a single corner of your space, send a quick text to a friend, or make a cup of tea. Completing one small task can create a ripple of relief.\n4. **Pause for 5 minutes** \u2013 step away from whatever you\u2019re doing and do something that feels soothing\u2014listen to a favorite song, stretch, or look out a window.\n\nRemember, it\u2019s okay to give yourself permission to pause and recharge. How did you usually feel when you were less stressed? That might give a hint about what could bring you back to that calmer space today.",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openrouter/free)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T12:45:33",
+    "date": "2026-04-16",
+    "time": "12:45 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "hii i feel really happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.9177,
+    "sentiment_confidence": 0.8386,
+    "ai_response": {
+      "reply": "That's wonderful to hear you're feeling happy! It sounds like you're truly in a positive place right now. I'm really glad you shared that with me\u2014it means a lot to know you're acknowledging and celebrating your happiness.\n\nIt's nice to feel uplifted, but I also want to make sure you're carrying that joy with you. Have you been reflecting on what's been causing this happiness for you? Sometimes understanding more about what's making you feel this way can help you enjoy it even more.\n\nAlso, if you're wanting to keep building on this feeling, would you like some gentle ideas or activities to deepen that happiness? \n\nAlso, if you ever need someone to talk to or if you're feeling overwhelmed, I'm here for you. Just let me know. \ud83d\udc9b",
+      "supportive_response": "That's wonderful to hear you're feeling happy! It sounds like you're truly in a positive place right now. I'm really glad you shared that with me\u2014it means a lot to know you're acknowledging and celebrating your happiness.\n\nIt's nice to feel uplifted, but I also want to make sure you're carrying that joy with you. Have you been reflecting on what's been causing this happiness for you? Sometimes understanding more about what's making you feel this way can help you enjoy it even more.\n\nAlso, if you're wanting to keep building on this feeling, would you like some gentle ideas or activities to deepen that happiness? \n\nAlso, if you ever need someone to talk to or if you're feeling overwhelmed, I'm here for you. Just let me know. \ud83d\udc9b",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openrouter/free)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T12:58:01",
+    "date": "2026-04-16",
+    "time": "12:58 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii i feel very happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.9575,
+    "sentiment_confidence": 0.8175,
+    "ai_response": {
+      "reply": "None",
+      "supportive_response": "None",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openrouter/free)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T13:08:44",
+    "date": "2026-04-16",
+    "time": "01:08 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii i feel stressed",
+    "emotion": "Sad",
+    "sentiment": "Neutral",
+    "emotion_confidence": 0.3695,
+    "sentiment_confidence": 0.4912,
+    "ai_response": {
+      "reply": "**MindMitra AI:**  \nHey there \ud83d\udc9b It sounds like you\u2019re carrying something heavy right now, and that\u2019s okay\u2014stress can sneak up on us even when we\u2019re trying to stay strong. Have you noticed what\u2019s been weighing on you lately? Sometimes naming",
+      "supportive_response": "**MindMitra AI:**  \nHey there \ud83d\udc9b It sounds like you\u2019re carrying something heavy right now, and that\u2019s okay\u2014stress can sneak up on us even when we\u2019re trying to stay strong. Have you noticed what\u2019s been weighing on you lately? Sometimes naming",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openrouter/free)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:01:59",
+    "date": "2026-04-16",
+    "time": "02:01 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I feel overwhelmed with exams",
+    "emotion": "Anxiety",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2656,
+    "sentiment_confidence": 0.5352,
+    "ai_response": {
+      "supportive_response": "It\u2019s okay to feel anxious sometimes.",
+      "suggestion": "Focus on slow breathing.",
+      "motivation": "You are safe right now.",
+      "reply": "It\u2019s okay to feel anxious sometimes. Focus on slow breathing. You are safe right now. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "Rule-based fallback",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:09:55",
+    "date": "2026-04-16",
+    "time": "02:09 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I feel very much stressed today because of my academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2994,
+    "sentiment_confidence": 0.5773,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "Rule-based fallback",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:14:40",
+    "date": "2026-04-16",
+    "time": "02:14 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I am very much stressed due to academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.3941,
+    "sentiment_confidence": 0.6108,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "Rule-based fallback",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:16:59",
+    "date": "2026-04-16",
+    "time": "02:16 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I am very much stressed due to academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.3941,
+    "sentiment_confidence": 0.6108,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "Rule-based fallback",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:34:22",
+    "date": "2026-04-16",
+    "time": "02:34 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I am stressed about academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.428,
+    "sentiment_confidence": 0.6217,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:36:44",
+    "date": "2026-04-16",
+    "time": "02:36 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I am stressed due to academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.428,
+    "sentiment_confidence": 0.6217,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:38:17",
+    "date": "2026-04-16",
+    "time": "02:38 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I feel stressed about my academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2994,
+    "sentiment_confidence": 0.5773,
+    "ai_response": {
+      "supportive_response": "It sounds like things feel overwhelming.",
+      "suggestion": "Take a short break and breathe deeply.",
+      "motivation": "You can handle this step by step.",
+      "reply": "It sounds like things feel overwhelming. Take a short break and breathe deeply. You can handle this step by step. What feels like the smallest kind thing you could do for yourself right now?",
+      "source": "OpenRouter unavailable. Showing rule-based fallback.",
+      "api_error": "ValueError: OpenRouter API key is missing."
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:40:26",
+    "date": "2026-04-16",
+    "time": "02:40 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I am stressed a lot due to academics",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.428,
+    "sentiment_confidence": 0.6217,
+    "ai_response": {
+      "reply": "I'm sorry to hear that you're feeling stressed out because of academics. It's completely normal to feel overwhelmed at times, especially when there's a lot on your plate. Remember, your feelings are valid, and it's important to take care of yourself during stressful periods.\n\nOne helpful way to manage academic stress is to break tasks into smaller, more manageable chunks. Setting realistic goals and creating a study schedule can help you stay organized and reduce feelings of being overwhelmed. Additionally, taking breaks, practicing deep breathing exercises, or engaging in physical activity can also be beneficial for relieving stress.\n\nIt's essential to prioritize self-care during busy times. Make sure to get enough rest, eat well-balanced meals, and stay hydrated. Don't hesitate to reach out to friends, family, or a counselor for support if you need someone to talk to.\n\nHow do you usually unwind or take breaks when you're feeling stressed about academics?",
+      "supportive_response": "I'm sorry to hear that you're feeling stressed out because of academics. It's completely normal to feel overwhelmed at times, especially when there's a lot on your plate. Remember, your feelings are valid, and it's important to take care of yourself during stressful periods.\n\nOne helpful way to manage academic stress is to break tasks into smaller, more manageable chunks. Setting realistic goals and creating a study schedule can help you stay organized and reduce feelings of being overwhelmed. Additionally, taking breaks, practicing deep breathing exercises, or engaging in physical activity can also be beneficial for relieving stress.\n\nIt's essential to prioritize self-care during busy times. Make sure to get enough rest, eat well-balanced meals, and stay hydrated. Don't hesitate to reach out to friends, family, or a counselor for support if you need someone to talk to.\n\nHow do you usually unwind or take breaks when you're feeling stressed about academics?",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T14:44:34",
+    "date": "2026-04-16",
+    "time": "02:44 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I feel tired and lost",
+    "emotion": "Anxiety",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2656,
+    "sentiment_confidence": 0.5352,
+    "ai_response": {
+      "reply": "I'm sorry to hear that you're feeling tired and lost. It's completely okay to feel this way sometimes, and it's important to acknowledge and address these feelings. When you're feeling lost, it can be overwhelming and exhausting. Remember that you're not alone in feeling this way, and it's okay to take a step back to care for yourself.\n\nOne practical step you can take is to give yourself permission to rest and recharge. Sometimes, our bodies and minds need a break to reset. You could try engaging in activities that bring you comfort and relaxation, whether it's reading a book, taking a warm bath, or simply taking a short walk outside to get some fresh air.\n\nIt might also help to reflect on what might be contributing to these feelings of being lost. Journaling about your thoughts and emotions can be a helpful way to gain clarity and insight into what's going on for you. Writing down your thoughts can sometimes make them feel more manageable and less overwhelming.\n\nRemember, it's okay to seek support from others when you're feeling this way. Is there someone you trust that you could reach out to for a chat or a listening ear? Sharing your feelings with someone you trust can sometimes lighten the emotional load.\n\nHow are you feeling about reaching out to someone for support or trying one",
+      "supportive_response": "I'm sorry to hear that you're feeling tired and lost. It's completely okay to feel this way sometimes, and it's important to acknowledge and address these feelings. When you're feeling lost, it can be overwhelming and exhausting. Remember that you're not alone in feeling this way, and it's okay to take a step back to care for yourself.\n\nOne practical step you can take is to give yourself permission to rest and recharge. Sometimes, our bodies and minds need a break to reset. You could try engaging in activities that bring you comfort and relaxation, whether it's reading a book, taking a warm bath, or simply taking a short walk outside to get some fresh air.\n\nIt might also help to reflect on what might be contributing to these feelings of being lost. Journaling about your thoughts and emotions can be a helpful way to gain clarity and insight into what's going on for you. Writing down your thoughts can sometimes make them feel more manageable and less overwhelming.\n\nRemember, it's okay to seek support from others when you're feeling this way. Is there someone you trust that you could reach out to for a chat or a listening ear? Sharing your feelings with someone you trust can sometimes lighten the emotional load.\n\nHow are you feeling about reaching out to someone for support or trying one",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T15:41:56",
+    "date": "2026-04-16",
+    "time": "03:41 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "I feel very sad",
+    "emotion": "Sad",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.3488,
+    "sentiment_confidence": 0.5823,
+    "ai_response": {
+      "reply": "I'm sorry to hear that you're feeling very sad. It's completely okay to feel this way, and your emotions are valid. When sadness weighs heavy on us, it can be overwhelming. Remember that it's essential to be gentle with yourself during these times.\n\nOne practical step you could try is to engage in activities that bring you comfort or peace, whether it's listening to soothing music, going for a walk in nature, or spending time with a beloved pet. Sometimes small moments of self-care can make a difference in how we feel.\n\nIf you're comfortable, maybe try writing down your thoughts or feelings in more detail. Journaling can sometimes help sort through emotions and bring a sense of clarity or release.\n\nRemember, you're not alone in feeling this way, and there are people who care about you. Is there a particular memory, song, or activity that usually lifts your spirits, even just a little bit?",
+      "supportive_response": "I'm sorry to hear that you're feeling very sad. It's completely okay to feel this way, and your emotions are valid. When sadness weighs heavy on us, it can be overwhelming. Remember that it's essential to be gentle with yourself during these times.\n\nOne practical step you could try is to engage in activities that bring you comfort or peace, whether it's listening to soothing music, going for a walk in nature, or spending time with a beloved pet. Sometimes small moments of self-care can make a difference in how we feel.\n\nIf you're comfortable, maybe try writing down your thoughts or feelings in more detail. Journaling can sometimes help sort through emotions and bring a sense of clarity or release.\n\nRemember, you're not alone in feeling this way, and there are people who care about you. Is there a particular memory, song, or activity that usually lifts your spirits, even just a little bit?",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T16:27:30",
+    "date": "2026-04-16",
+    "time": "04:27 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii \ntoday was very tough\ni feel very lonely and sad",
+    "emotion": "Sad",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.3488,
+    "sentiment_confidence": 0.5823,
+    "ai_response": {
+      "reply": "I'm sorry to hear that today was tough for you. Feeling lonely and sad can be really overwhelming. It's completely okay to have those feelings, and it's important to acknowledge them. Remember that you're not alone in this, even though it may feel that way right now.\n\nWhen you're feeling like this, it might help to try to engage in some self-care activities that bring you comfort. Maybe take a walk outside, listen to your favorite music, or do something creative like drawing or writing. These small acts of self-care can sometimes help ease the weight of sadness.\n\nIt's also okay to reach out to someone you trust and share how you're feeling. Talking to a friend, family member, or even a therapist can offer you support and understanding during difficult times.\n\nIf you feel up to it, would you like to share a bit more about what specifically made today tough for you? Sharing your thoughts and feelings can sometimes help lighten the emotional load.",
+      "supportive_response": "I'm sorry to hear that today was tough for you. Feeling lonely and sad can be really overwhelming. It's completely okay to have those feelings, and it's important to acknowledge them. Remember that you're not alone in this, even though it may feel that way right now.\n\nWhen you're feeling like this, it might help to try to engage in some self-care activities that bring you comfort. Maybe take a walk outside, listen to your favorite music, or do something creative like drawing or writing. These small acts of self-care can sometimes help ease the weight of sadness.\n\nIt's also okay to reach out to someone you trust and share how you're feeling. Talking to a friend, family member, or even a therapist can offer you support and understanding during difficult times.\n\nIf you feel up to it, would you like to share a bit more about what specifically made today tough for you? Sharing your thoughts and feelings can sometimes help lighten the emotional load.",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T16:28:15",
+    "date": "2026-04-16",
+    "time": "04:28 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i feel very happy and joyful",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.3488,
+    "sentiment_confidence": 0.5585,
+    "ai_response": {
+      "reply": "That's wonderful to hear that you're feeling so happy and joyful! It's truly a fantastic feeling to be in a positive state of mind. Embracing moments of happiness can be so uplifting and refreshing.\n\nIt's important to savor these feelings and let them fill you up with positivity. Maybe take a moment to reflect on what exactly is bringing you this happiness. Is it a particular event, person, or accomplishment that's contributing to your joy? Acknowledging these sources of happiness can help you appreciate them even more.\n\nIf you'd like to extend this positivity, you could consider jotting down a few things you're grateful for or engaging in an activity that brings you joy, whether it's listening to music, going for a walk, or simply taking some time to relax and unwind.\n\nWhat do you think has contributed most to your current feelings of happiness and joy?",
+      "supportive_response": "That's wonderful to hear that you're feeling so happy and joyful! It's truly a fantastic feeling to be in a positive state of mind. Embracing moments of happiness can be so uplifting and refreshing.\n\nIt's important to savor these feelings and let them fill you up with positivity. Maybe take a moment to reflect on what exactly is bringing you this happiness. Is it a particular event, person, or accomplishment that's contributing to your joy? Acknowledging these sources of happiness can help you appreciate them even more.\n\nIf you'd like to extend this positivity, you could consider jotting down a few things you're grateful for or engaging in an activity that brings you joy, whether it's listening to music, going for a walk, or simply taking some time to relax and unwind.\n\nWhat do you think has contributed most to your current feelings of happiness and joy?",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T16:29:09",
+    "date": "2026-04-16",
+    "time": "04:29 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "During the period of falling in love, each time that we met and especially when we had not met for a long time.",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2587,
+    "sentiment_confidence": 0.5609,
+    "ai_response": {
+      "reply": "It sounds like you're reflecting on a complex and emotionally intense experience of falling in love. The rollercoaster of emotions that come with love, especially when it involves periods of separation, can be quite overwhelming. It's completely normal to feel a mix of excitement, anticipation, and perhaps even some anxiety during these times.\n\nTaking a moment to acknowledge and sit with these feelings can be a good first step. Journaling about your experiences and emotions can be a helpful way to process what you're going through. Writing down your thoughts and reflections can sometimes provide clarity and insight into your own feelings.\n\nIf you find that these emotions are becoming too overwhelming or stressful, it might be beneficial to consider talking to someone you trust about your feelings. Sharing your experiences with a friend, family member, or therapist can offer you additional support and perspective.\n\nHow do you usually cope with intense emotions like these?",
+      "supportive_response": "It sounds like you're reflecting on a complex and emotionally intense experience of falling in love. The rollercoaster of emotions that come with love, especially when it involves periods of separation, can be quite overwhelming. It's completely normal to feel a mix of excitement, anticipation, and perhaps even some anxiety during these times.\n\nTaking a moment to acknowledge and sit with these feelings can be a good first step. Journaling about your experiences and emotions can be a helpful way to process what you're going through. Writing down your thoughts and reflections can sometimes provide clarity and insight into your own feelings.\n\nIf you find that these emotions are becoming too overwhelming or stressful, it might be beneficial to consider talking to someone you trust about your feelings. Sharing your experiences with a friend, family member, or therapist can offer you additional support and perspective.\n\nHow do you usually cope with intense emotions like these?",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T16:42:05",
+    "date": "2026-04-16",
+    "time": "04:42 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii \nso today i had a fight with my parents,they scold me for everything and i hate it",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2587,
+    "sentiment_confidence": 0.5609,
+    "ai_response": {
+      "reply": "I'm sorry to hear that you had a tough day with your parents. It's really hard when you feel like you're constantly being criticized or misunderstood. It's completely normal to feel upset and frustrated in situations like that. Remember, your feelings are valid.\n\nWhen tensions are high after an argument, it can be helpful to take some time to cool off and gather your thoughts. Maybe find a quiet space where you can take deep breaths and reflect on what happened. Journaling your thoughts and emotions can also be a great way to process what you're feeling.\n\nIf you feel comfortable, you could consider having a calm conversation with your parents when things have settled down. Expressing your feelings in a respectful way might help them understand where you're coming from.\n\nRemember, it's okay to seek support from friends, family, or a counselor if you need someone to talk to. Is there a particular activity or hobby that helps you relax and unwind during stressful times like this?",
+      "supportive_response": "I'm sorry to hear that you had a tough day with your parents. It's really hard when you feel like you're constantly being criticized or misunderstood. It's completely normal to feel upset and frustrated in situations like that. Remember, your feelings are valid.\n\nWhen tensions are high after an argument, it can be helpful to take some time to cool off and gather your thoughts. Maybe find a quiet space where you can take deep breaths and reflect on what happened. Journaling your thoughts and emotions can also be a great way to process what you're feeling.\n\nIf you feel comfortable, you could consider having a calm conversation with your parents when things have settled down. Expressing your feelings in a respectful way might help them understand where you're coming from.\n\nRemember, it's okay to seek support from friends, family, or a counselor if you need someone to talk to. Is there a particular activity or hobby that helps you relax and unwind during stressful times like this?",
+      "suggestion": "",
+      "motivation": "",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:10:28+05:30",
+    "date": "2026-04-16",
+    "time": "05:10 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i feel very much disheartned",
+    "emotion": "Anxiety",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2656,
+    "sentiment_confidence": 0.5352,
+    "ai_response": {
+      "supportive_response": "I can sense that you're feeling disheartened, and that's completely valid.",
+      "insight": "Feeling disheartened can be overwhelming, but it's important to remember that emotions are temporary and can shift with time.",
+      "suggestion": "Perhaps taking a few deep breaths or engaging in a calming activity like going for a walk or listening to soothing music might help ease your current feelings.",
+      "motivation": "Remember, this feeling won't last forever, and you have the strength to navigate through it.",
+      "reply": "I can sense that you're feeling disheartened, and that's completely valid. Feeling disheartened can be overwhelming, but it's important to remember that emotions are temporary and can shift with time. Perhaps taking a few deep breaths or engaging in a calming activity like going for a walk or listening to soothing music might help ease your current feelings. Remember, this feeling won't last forever, and you have the strength to navigate through it.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:23:42+05:30",
+    "date": "2026-04-16",
+    "time": "05:23 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii so i feel happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.3997,
+    "sentiment_confidence": 0.6098,
+    "ai_response": {
+      "supportive_response": "It's wonderful to hear that you're feeling happy.",
+      "insight": "Embracing moments of happiness can be a powerful way to boost your overall well-being.",
+      "suggestion": "Consider journaling about what specifically brought you joy today or engage in a self-care activity to further nurture this positive feeling.",
+      "motivation": "Continue to savor this happiness and allow it to fill your day with positivity.",
+      "reply": "It's wonderful to hear that you're feeling happy. Embracing moments of happiness can be a powerful way to boost your overall well-being. Consider journaling about what specifically brought you joy today or engage in a self-care activity to further nurture this positive feeling. Continue to savor this happiness and allow it to fill your day with positivity.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:25:24+05:30",
+    "date": "2026-04-16",
+    "time": "05:25 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii \nso today i had a rough day\ni had a fight",
+    "emotion": "Stress",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2587,
+    "sentiment_confidence": 0.5609,
+    "ai_response": {
+      "supportive_response": "It sounds like today was really tough for you. Having a fight can be emotionally draining.",
+      "insight": "Conflicts can be challenging, but they also provide opportunities for growth and understanding, both of yourself and others.",
+      "suggestion": "Consider taking some time to reflect on what triggered the fight and how you can communicate your feelings effectively in the future. Maybe writing down your thoughts can help bring clarity.",
+      "motivation": "Remember, setbacks happen to everyone. You have the strength to learn from this experience and move forward.",
+      "reply": "It sounds like today was really tough for you. Having a fight can be emotionally draining. Conflicts can be challenging, but they also provide opportunities for growth and understanding, both of yourself and others. Consider taking some time to reflect on what triggered the fight and how you can communicate your feelings effectively in the future. Maybe writing down your thoughts can help bring clarity. Remember, setbacks happen to everyone. You have the strength to learn from this experience and move forward.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:32:36+05:30",
+    "date": "2026-04-16",
+    "time": "05:32 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii,so today was kinda a very good day,i got a certificate for my academics and my parents are really happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.3547,
+    "sentiment_confidence": 0.5642,
+    "ai_response": {
+      "supportive_response": "It sounds like today brought you a lot of joy and accomplishment. Getting a certificate for your academics must have felt incredibly rewarding, especially seeing how happy it made your parents.",
+      "insight": "Celebrating your achievements, big or small, can boost your self-esteem and create positive connections with your loved ones. It's important to cherish these moments of success.",
+      "suggestion": "Consider setting aside some time to reflect on what this achievement means to you and how it aligns with your future goals. Maybe jot down your thoughts in a journal to capture this special moment.",
+      "motivation": "You're on a path of success and making your loved ones proud. Keep nurturing that positive momentum and continue to shine in your endeavors.",
+      "reply": "Today's celebration of your academic achievement and your parents' happiness paints a beautiful picture of success and connection. Embrace this moment of joy and remember that your hard work is truly paying off. Taking time to reflect on this accomplishment can help you appreciate your progress and set new goals. You're doing wonderfully, and your loved ones are cheering you on every step of the way.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:32:51+05:30",
+    "date": "2026-04-16",
+    "time": "05:32 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "Hii,so today was kinda a very good day,i got a certificate for my academics and my parents are really happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.3547,
+    "sentiment_confidence": 0.5642,
+    "ai_response": {
+      "supportive_response": "{\n  \"supportive_response\": \"It's wonderful to hear that you had such a great day and received recognition for your academic achievements. It must feel rewarding to see your hard work paying off.\",\n  \"insight\": \"Celebrating your successes, no matter how big or small, can boost your self-esteem and motivation to keep striving for more. Acknowledging your accomplishments is important for your mental well-being.\",\n  \"suggestion\": \"Consider setting new academic goals to continue your growth and maintain your momentum. Maybe treat yourself to something special to further celebrate your achievement.\",\n  \"motivation\": \"Remember, you are capable of achieving great things, and this accomplishment is a testament to your dedication and efforts. Keep believing in yourself!\",\n  \"reply\": \"It's wonderful to hear that you had such a great day and received recognition for your academic achievements. It must feel rewarding to see your hard work paying off. Celebrating your successes, no matter how big or small, can boost your self-esteem and motivation to keep striving for more. Acknowledging your accomplishments is important for your mental well-being. Consider setting new academic goals to continue your growth and maintain your momentum. Maybe treat yourself to something special to further celebrate your achievement. Remember, you are capable of achieving great things,",
+      "insight": "",
+      "suggestion": "",
+      "motivation": "",
+      "reply": "{\n  \"supportive_response\": \"It's wonderful to hear that you had such a great day and received recognition for your academic achievements. It must feel rewarding to see your hard work paying off.\",\n  \"insight\": \"Celebrating your successes, no matter how big or small, can boost your self-esteem and motivation to keep striving for more. Acknowledging your accomplishments is important for your mental well-being.\",\n  \"suggestion\": \"Consider setting new academic goals to continue your growth and maintain your momentum. Maybe treat yourself to something special to further celebrate your achievement.\",\n  \"motivation\": \"Remember, you are capable of achieving great things, and this accomplishment is a testament to your dedication and efforts. Keep believing in yourself!\",\n  \"reply\": \"It's wonderful to hear that you had such a great day and received recognition for your academic achievements. It must feel rewarding to see your hard work paying off. Celebrating your successes, no matter how big or small, can boost your self-esteem and motivation to keep striving for more. Acknowledging your accomplishments is important for your mental well-being. Consider setting new academic goals to continue your growth and maintain your momentum. Maybe treat yourself to something special to further celebrate your achievement. Remember, you are capable of achieving great things,",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:35:06+05:30",
+    "date": "2026-04-16",
+    "time": "05:35 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "hi so i m happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.3547,
+    "sentiment_confidence": 0.5642,
+    "ai_response": {
+      "supportive_response": "It's wonderful to hear that you're feeling happy!",
+      "insight": "Embracing moments of happiness is essential for our mental well-being. It's important to savor these positive emotions.",
+      "suggestion": "Consider jotting down what made you happy today in your journal, or take a moment to reflect on this feeling of happiness.",
+      "motivation": "Remember, happiness is a beautiful emotion that deserves to be cherished. Allow yourself to fully experience and appreciate this joy.",
+      "reply": "It's wonderful to hear that you're feeling happy! Embracing moments of happiness is essential for our mental well-being. It's important to savor these positive emotions. Consider jotting down what made you happy today in your journal, or take a moment to reflect on this feeling of happiness. Remember, happiness is a beautiful emotion that deserves to be cherished. Allow yourself to fully experience and appreciate this joy.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:46:27+05:30",
+    "date": "2026-04-16",
+    "time": "05:46 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i am happy",
+    "emotion": "Happy",
+    "sentiment": "Positive",
+    "emotion_confidence": 0.2956,
+    "sentiment_confidence": 0.502,
+    "ai_response": {
+      "supportive_response": "It's wonderful to hear that you are feeling happy.",
+      "insight": "Embracing moments of happiness is important for overall well-being. Cherish and savor this positive emotion.",
+      "suggestion": "Consider jotting down what brought about this happiness to revisit during challenging times. Maybe engage in an activity that nurtures this happiness further.",
+      "motivation": "Your happiness is a precious gift. Embrace it fully and let it radiate within you.",
+      "reply": "It's wonderful to hear that you are feeling happy. Embracing moments of happiness is important for overall well-being. Cherish and savor this positive emotion. Consider jotting down what brought about this happiness to revisit during challenging times. Maybe engage in an activity that nurtures this happiness further. Your happiness is a precious gift. Embrace it fully and let it radiate within you.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:50:35+05:30",
+    "date": "2026-04-16",
+    "time": "05:50 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i am sad",
+    "emotion": "Sad",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2956,
+    "sentiment_confidence": 0.6149,
+    "ai_response": {
+      "supportive_response": "I hear you, feeling sad is a tough emotion to navigate.",
+      "insight": "Sadness is a natural response to difficult situations or emotions. It's important to acknowledge and process these feelings.",
+      "suggestion": "Try engaging in a calming activity like taking a walk, journaling your thoughts, or listening to soothing music.",
+      "motivation": "Remember, it's okay to feel sad sometimes. You're not alone in this.",
+      "reply": "I hear you, feeling sad is a tough emotion to navigate. Sadness is a natural response to difficult situations or emotions. It's important to acknowledge and process these feelings. Try engaging in a calming activity like taking a walk, journaling your thoughts, or listening to soothing music. Remember, it's okay to feel sad sometimes. You're not alone in this.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  },
+  {
+    "timestamp": "2026-04-16T17:56:36+05:30",
+    "date": "2026-04-16",
+    "time": "05:56 PM",
+    "display_date": "16 April 2026",
+    "weekday": "Thursday",
+    "text": "i feel so much tiredd",
+    "emotion": "Anxiety",
+    "sentiment": "Negative",
+    "emotion_confidence": 0.2656,
+    "sentiment_confidence": 0.5352,
+    "ai_response": {
+      "supportive_response": "It sounds like you're feeling overwhelmed and exhausted right now.",
+      "insight": "Feeling tired can sometimes be a sign that your mind and body need a break. It's important to listen to what your body is telling you.",
+      "suggestion": "Take a few deep breaths to help calm your mind and body. Consider setting aside some time for self-care, even if it's just a few minutes of relaxation.",
+      "motivation": "Remember, it's okay to prioritize your well-being and take time to recharge. You deserve moments of peace and rest.",
+      "reply": "It sounds like you're feeling overwhelmed and exhausted right now. Feeling tired can sometimes be a sign that your mind and body need a break. It's important to listen to what your body is telling you. Take a few deep breaths to help calm your mind and body. Consider setting aside some time for self-care, even if it's just a few minutes of relaxation. Remember, it's okay to prioritize your well-being and take time to recharge. You deserve moments of peace and rest.",
+      "source": "OpenRouter (openai/gpt-3.5-turbo)",
+      "api_error": ""
+    }
+  }
+]
