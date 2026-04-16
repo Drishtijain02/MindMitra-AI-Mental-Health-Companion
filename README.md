@@ -192,6 +192,15 @@ Journal data is stored locally and is not encrypted.
 
 ---
 
+<img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/13d87c16-7d72-4224-8f76-2acaba510fad" />
+<img width="1864" height="993" alt="image" src="https://github.com/user-attachments/assets/ebda467f-72e8-4077-bf75-729e6368ea33" />
+<img width="1482" height="821" alt="image" src="https://github.com/user-attachments/assets/9ad7fdc1-a2ed-4f52-8266-e613d1f2adea" />
+<img width="1380" height="976" alt="image" src="https://github.com/user-attachments/assets/3b7a1a49-4831-4c77-a586-b60688db3531" />
+
+
+
+
+
 ## 💡 Inspiration
 
 Built to create a **safe and intelligent digital space** where users can reflect, express, and feel heard.
